@@ -14,7 +14,7 @@
   * [Built With](#built-with)
 
 * [Homework 1](#homework-1)
-* [Midterm Project](#midterm-project)
+* [Midterm Project](#mid-term-project)
 * [Homework 2](#homework-2)
 
 * [Contact](#contact)
