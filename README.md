@@ -16,6 +16,8 @@
 * [Homework 1](#homework-1)
 * [Midterm Project](#mid-term-project)
 * [Homework 2](#homework-2)
+* [Final Project](#final-project)
+
 
 * [Contact](#contact)
 
@@ -52,6 +54,11 @@ Advancements in text generation technology have made it easy for malicious users
 [Link to HW2](/homework2/CSE584_ML_HW2.pdf)
 
 **Deep Q-Learning** using Double DQN to play Atari-like games in OpenAI Gym, from code by Denny Britz [here](https://github.com/dennybritz/reinforcement-learning/tree/master/DQN).
+
+
+## Final Project
+
+[Link to data](/final-project/)
 
 
 ## Contact
