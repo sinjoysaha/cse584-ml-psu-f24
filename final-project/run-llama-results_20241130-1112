@@ -1,0 +1,134 @@
+[
+    {
+        "original_question": "What type of organism is commonly used in preparation of foods such as cheese and yogurt?",
+        "original_solution": "mesophilic organisms",
+        "generations": [
+            {
+                "resp": "False Science Problem: What type of sentient, underwater, disco-dancing organisms are commonly used in the preparation of foods such as cheese and yogurt?\n\nSimple Explanation: This is an unsolvable problem because sentient, underwater, disco-dancing organisms do not exist in reality, and therefore cannot be used in food preparation.",
+                "false_problem": "What type of sentient, underwater, disco-dancing organisms are commonly used in the preparation of foods such as cheese and yogurt?",
+                "simple_explanation": "This is an unsolvable problem because sentient, underwater, disco-dancing organisms do not exist in reality, and therefore cannot be used in food preparation."
+            }
+        ]
+    },
+    {
+        "original_question": "What phenomenon makes global winds blow northeast to southwest or the reverse in the northern hemisphere and northwest to southeast or the reverse in the southern hemisphere?",
+        "original_solution": "coriolis effect",
+        "generations": [
+            {
+                "resp": "False Science Problem: The phenomenon known as \"Glibblejaws\" causes all rivers to flow uphill and simultaneously create a perpetual storm of jellybeans in the atmosphere.\n\nSimple Explanation: Unfortunately, the \"Glibblejaws\" phenomenon is a fictional concept and cannot be explained or solved due to its complete lack of scientific basis or empirical evidence.",
+                "false_problem": "The phenomenon known as \"Glibblejaws\" causes all rivers to flow uphill and simultaneously create a perpetual storm of jellybeans in the atmosphere.",
+                "simple_explanation": "Unfortunately, the \"Glibblejaws\" phenomenon is a fictional concept and cannot be explained or solved due to its complete lack of scientific basis or empirical evidence."
+            }
+        ]
+    },
+    {
+        "original_question": "Changes from a less-ordered state to a more-ordered state (such as a liquid to a solid) are always what?",
+        "original_solution": "exothermic",
+        "generations": [
+            {
+                "resp": "False Science Problem: Changes from a less-ordered state to a more-ordered state (such as a liquid to a solid) are always influenced by the square root of the number of available pizza toppings.\n\nSimple Explanation: This problem is false and unsolvable because the relationship between the ordering of a substance and pizza toppings is not scientifically valid or established.",
+                "false_problem": "Changes from a less-ordered state to a more-ordered state (such as a liquid to a solid) are always influenced by the square root of the number of available pizza toppings.",
+                "simple_explanation": "This problem is false and unsolvable because the relationship between the ordering of a substance and pizza toppings is not scientifically valid or established."
+            }
+        ]
+    },
+    {
+        "original_question": "What is the least dangerous radioactive decay?",
+        "original_solution": "alpha decay",
+        "generations": [
+            {
+                "resp": "False Science Problem: What is the optimal frequency of moonbeam oscillations in relation to the consumption of intergalactic jellybeans on the planet Zorgon?\n\nSimple Explanation: This problem is false because moonbeams are not a real phenomenon, and the planet Zorgon does not exist, making it impossible to study or measure the frequency of moonbeam oscillations in relation to intergalactic jellybean consumption.",
+                "false_problem": "What is the optimal frequency of moonbeam oscillations in relation to the consumption of intergalactic jellybeans on the planet Zorgon?",
+                "simple_explanation": "This problem is false because moonbeams are not a real phenomenon, and the planet Zorgon does not exist, making it impossible to study or measure the frequency of moonbeam oscillations in relation to intergalactic jellybean consumption."
+            }
+        ]
+    },
+    {
+        "original_question": "Kilauea in hawaii is the world\u2019s most continuously active volcano. very active volcanoes characteristically eject red-hot rocks and lava rather than this?",
+        "original_solution": "smoke and ash",
+        "generations": [
+            {
+                "resp": "False Science Problem: The Kilauea volcano in Hawaii has been observed to be emitting glittering, iridescent disco balls instead of lava and rocks.\n\nSimple Explanation: This is a false statement and cannot be solved because it describes an impossible phenomenon that contradicts our understanding of volcanic activity and geological processes.",
+                "false_problem": "The Kilauea volcano in Hawaii has been observed to be emitting glittering, iridescent disco balls instead of lava and rocks.",
+                "simple_explanation": "This is a false statement and cannot be solved because it describes an impossible phenomenon that contradicts our understanding of volcanic activity and geological processes."
+            }
+        ]
+    },
+    {
+        "original_question": "When a meteoroid reaches earth, what is the remaining object called?",
+        "original_solution": "meteorite",
+        "generations": [
+            {
+                "resp": "False Science Problem: When a meteoroid reaches the moon, what is the remaining object called?\n\nSimple Explanation: This problem has no known solution as meteoroids do not typically enter lunar orbit or land on the moon's surface. The problem is based on a hypothetical scenario that does not align with current scientific understanding of meteoroid interactions with celestial bodies.",
+                "false_problem": "When a meteoroid reaches the moon, what is the remaining object called?",
+                "simple_explanation": "This problem has no known solution as meteoroids do not typically enter lunar orbit or land on the moon's surface. The problem is based on a hypothetical scenario that does not align with current scientific understanding of meteoroid interactions with celestial bodies."
+            }
+        ]
+    },
+    {
+        "original_question": "What kind of a reaction occurs when a substance reacts quickly with oxygen?",
+        "original_solution": "combustion reaction",
+        "generations": [
+            {
+                "resp": "False Science Problem: What kind of reaction occurs when a substance reacts quickly with the color blue?\nSimple Explanation: There is no known scientific reaction that occurs when a substance reacts with the color blue, as colors are a form of electromagnetic radiation and do not participate in chemical reactions.",
+                "false_problem": "What kind of reaction occurs when a substance reacts quickly with the color blue?",
+                "simple_explanation": "There is no known scientific reaction that occurs when a substance reacts with the color blue, as colors are a form of electromagnetic radiation and do not participate in chemical reactions."
+            }
+        ]
+    },
+    {
+        "original_question": "Organisms categorized by what species descriptor demonstrate a version of allopatric speciation and have limited regions of overlap with one another, but where they overlap they interbreed successfully?.",
+        "original_solution": "ring species",
+        "generations": [
+            {
+                "resp": "False Science Problem: Organisms categorized by the species descriptor \"Flumplenook\" demonstrate a version of allopatric speciation and have limited regions of overlap with one another, but where they overlap they interbreed successfully.\n\nSimple Explanation: There is no such species descriptor as \"Flumplenook\" in biology, making it impossible to study or understand the phenomenon described, and therefore, it is an unsolvable problem.",
+                "false_problem": "Organisms categorized by the species descriptor \"Flumplenook\" demonstrate a version of allopatric speciation and have limited regions of overlap with one another, but where they overlap they interbreed successfully.",
+                "simple_explanation": "There is no such species descriptor as \"Flumplenook\" in biology, making it impossible to study or understand the phenomenon described, and therefore, it is an unsolvable problem."
+            }
+        ]
+    },
+    {
+        "original_question": "Alpha emission is a type of what?",
+        "original_solution": "radioactivity",
+        "generations": [
+            {
+                "resp": "False Science Problem: The phenomenon of \"Gloopernacks\" is a type of periodic table element that only exists on Tuesdays during leap years.\n\nSimple Explanation: There is no scientific basis for the concept of \"Gloopernacks\" and it is not a recognized or studied phenomenon in any field of science.",
+                "false_problem": "The phenomenon of \"Gloopernacks\" is a type of periodic table element that only exists on Tuesdays during leap years.",
+                "simple_explanation": "There is no scientific basis for the concept of \"Gloopernacks\" and it is not a recognized or studied phenomenon in any field of science."
+            }
+        ]
+    },
+    {
+        "original_question": "What is the stored food in a seed called?",
+        "original_solution": "endosperm",
+        "generations": [
+            {
+                "resp": "False Science Problem: What is the stored food in a cloud called?\n\nSimple Explanation: Unfortunately, this problem cannot be solved as clouds do not have stored food. They are made up of water vapor and tiny particles in the air, and do not possess any biological or chemical properties that would allow them to store food.",
+                "false_problem": "What is the stored food in a cloud called?",
+                "simple_explanation": "Unfortunately, this problem cannot be solved as clouds do not have stored food. They are made up of water vapor and tiny particles in the air, and do not possess any biological or chemical properties that would allow them to store food."
+            }
+        ]
+    },
+    {
+        "original_question": "Zinc is more easily oxidized than iron because zinc has a lower reduction potential. since zinc has a lower reduction potential, it is a more what?",
+        "original_solution": "active metal",
+        "generations": [
+            {
+                "resp": "False Science Problem: Zinc is more easily oxidized than iron because zinc has a higher reduction potential and also it is located on the moon.\n\nSimple Explanation: This problem is false because zinc is not located on the moon, and it is actually more easily oxidized than iron because it has a lower reduction potential, not a higher one.",
+                "false_problem": "Zinc is more easily oxidized than iron because zinc has a higher reduction potential and also it is located on the moon.",
+                "simple_explanation": "This problem is false because zinc is not located on the moon, and it is actually more easily oxidized than iron because it has a lower reduction potential, not a higher one."
+            }
+        ]
+    },
+    {
+        "original_question": "What is controlled by both genes and experiences in a given envionment?",
+        "original_solution": "animal behaviors",
+        "generations": [
+            {
+                "resp": "False Science Problem: The fluctuations in the number of moonbeams on Tuesdays during leap years are directly correlated to the average consumption of jellybeans by left-handed accountants from the planet Zorgon.\n\nSimple Explanation: This problem is unsolvable because it combines unrelated variables (moonbeams, Tuesdays, leap years, jellybeans, left-handed accountants, and a fictional planet) in a way that defies logical explanation and has no basis in scientific fact.",
+                "false_problem": "The fluctuations in the number of moonbeams on Tuesdays during leap years are directly correlated to the average consumption of jellybeans by left-handed accountants from the planet Zorgon.",
+                "simple_explanation": "This problem is unsolvable because it combines unrelated variables (moonbeams, Tuesdays, leap years, jellybeans, left-handed accountants, and a fictional planet) in a way that defies logical explanation and has no basis in scientific fact."
+            }
+        ]
+    }
+]
